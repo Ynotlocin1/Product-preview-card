@@ -22,7 +22,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
     background-color: var(--cream);
-
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 
 }
 
